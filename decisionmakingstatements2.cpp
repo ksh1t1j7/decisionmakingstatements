@@ -24,3 +24,10 @@ int main() {
 
     return 0;
 }
+/*
+Enter three integers:
+Number 1: 5
+Number 2: 5
+Number 3: 7
+The largest number is: 7
+*/
