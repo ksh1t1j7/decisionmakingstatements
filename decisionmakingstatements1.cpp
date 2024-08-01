@@ -18,3 +18,9 @@ int main() {
 
     return 0;
 }
+/*
+Enter a single character: h
+h is a consonant.
+Enter a single character: a
+a is a vowel.
+*/
